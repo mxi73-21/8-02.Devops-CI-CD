@@ -26,7 +26,7 @@
 
 
 
-![alt text](https://github.com/mxi73-21/8-02.Devops-CI-CD/main/2db7be5ecc6c59c52a58949615cebf37f77ce197/2026-04-05_215612.jpg)
+![alt text](https://github.com/mxi73-21/8-02.Devops-CI-CD/2026-04-05_215612.jpg)
 
 
 
