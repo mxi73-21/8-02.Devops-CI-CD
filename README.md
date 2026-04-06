@@ -36,7 +36,11 @@
 
 ### Задание 2
 
+![alt text](https://github.com/mxi73-21/8-02.Devops-CI-CD/blob/main/2026-04-06_211204.jpg)
 
+![alt text](https://github.com/mxi73-21/8-02.Devops-CI-CD/blob/main/2026-04-06_211440.jpg)
+
+![alt text](https://github.com/mxi73-21/8-02.Devops-CI-CD/blob/main/2026-04-06_211702.jpg)
 
 
 ### Задание 3
