@@ -28,13 +28,15 @@
 
 ![alt text](https://github.com/mxi73-21/8-02.Devops-CI-CD/blob/main/2026-04-05_215612.jpg)
 
+![alt text](https://github.com/mxi73-21/8-02.Devops-CI-CD/blob/main/2026-04-05_215846.jpg)
 
+![alt text](https://github.com/mxi73-21/8-02.Devops-CI-CD/blob/main/2026-04-05_220235.jpg)
 
 
 
 ### Задание 2
 
-https://github.com/netology-code/sys-pattern-homework/commit/982bea060332ea9fb8ff16fe7a8b45df6acb5417
+
 
 
 ### Задание 3
