@@ -45,5 +45,8 @@
 
 ### Задание 3
 
-https://github.com/mxi73-21/gitlab-hw/network
+![alt text](https://github.com/mxi73-21/8-02.Devops-CI-CD/blob/main/2026-04-07_202401.png)
 
+![alt text](https://github.com/mxi73-21/8-02.Devops-CI-CD/blob/main/2026-04-07_202701.png)
+
+![alt text](https://github.com/mxi73-21/8-02.Devops-CI-CD/blob/main/2026-04-07_202731.png)
